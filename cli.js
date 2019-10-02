@@ -4,13 +4,13 @@
 
 var choice = process.argv[2];
 var subject = process.argv.slice(3).join(" ");
+var TV = require("./tv.js");
 
 console.log(choice);
 console.log(subject);
-
+var tv = new TV();
 if(choice === "show"){
-    console.log("We are searching for a show");
-    console.log(subject);
+    tv.findShow(subject);
 } else if(choice === "actor"){
     console.log("we are looking for an actor");
     console.log(subject);

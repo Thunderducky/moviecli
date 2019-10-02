@@ -30,9 +30,3 @@ var TV = function(){
 }
 
 module.exports = TV;
-
-var tv = new TV();
-
-tv.findShow("Parks and Recreation");
-tv.findShow("The Simpsons");
-tv.findShow("South Park");

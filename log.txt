@@ -69,3 +69,43 @@ Rating: 8.7
 Network: Comedy Central
 
 Summary: <p><b>South Park</b> is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.</p>
+-----------------------------------
+Show: South Park
+
+Genre(s): Comedy
+
+Rating: 8.7
+
+Network: Comedy Central
+
+Summary: <p><b>South Park</b> is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.</p>
+-----------------------------------
+Show: The Simpsons
+
+Genre(s): Comedy, Family
+
+Rating: 8.5
+
+Network: FOX
+
+Summary: <p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>
+-----------------------------------
+Show: Parks and Recreation
+
+Genre(s): Comedy
+
+Rating: 8.6
+
+Network: NBC
+
+Summary: <p><b>Parks and Recreation</b> is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.</p>
+-----------------------------------
+Show: Family Guy
+
+Genre(s): Comedy, Family
+
+Rating: 7.8
+
+Network: FOX
+
+Summary: <p><b>Family Guy</b> follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</p>
