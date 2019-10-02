@@ -1,0 +1,71 @@
+
+-----------------------------------
+Show: Parks and Recreation
+
+Genre(s): Comedy
+
+Rating: 8.6
+
+Network: NBC
+
+Summary: <p><b>Parks and Recreation</b> is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.</p>
+-----------------------------------
+Show: Parks and Recreation
+
+Genre(s): Comedy
+
+Rating: 8.6
+
+Network: NBC
+
+Summary: <p><b>Parks and Recreation</b> is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.</p>
+-----------------------------------
+Show: The Simpsons
+
+Genre(s): Comedy, Family
+
+Rating: 8.5
+
+Network: FOX
+
+Summary: <p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>
+-----------------------------------
+Show: South Park
+
+Genre(s): Comedy
+
+Rating: 8.7
+
+Network: Comedy Central
+
+Summary: <p><b>South Park</b> is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.</p>
+-----------------------------------
+Show: Parks and Recreation
+
+Genre(s): Comedy
+
+Rating: 8.6
+
+Network: NBC
+
+Summary: <p><b>Parks and Recreation</b> is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.</p>
+-----------------------------------
+Show: The Simpsons
+
+Genre(s): Comedy, Family
+
+Rating: 8.5
+
+Network: FOX
+
+Summary: <p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>
+-----------------------------------
+Show: South Park
+
+Genre(s): Comedy
+
+Rating: 8.7
+
+Network: Comedy Central
+
+Summary: <p><b>South Park</b> is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.</p>
